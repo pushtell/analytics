@@ -331,3 +331,6 @@
 [submodule "dependencies/store/git"]
 	path = dependencies/store/git
 	url = git://github.com/yields/store.git
+[submodule "dependencies/load-date/git"]
+	path = dependencies/load-date/git
+	url = git://github.com/segmentio/load-date.git
