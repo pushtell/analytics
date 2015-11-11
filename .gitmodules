@@ -334,3 +334,9 @@
 [submodule "dependencies/load-date/git"]
 	path = dependencies/load-date/git
 	url = git://github.com/segmentio/load-date.git
+[submodule "dependencies/to-iso-string/git"]
+	path = dependencies/to-iso-string/git
+	url = git://github.com/segmentio/to-iso-string.git
+[submodule "dependencies/to-unix-timestamp/git"]
+	path = dependencies/to-unix-timestamp/git
+	url = git://github.com/segmentio/to-unix-timestamp.git
