@@ -1,0 +1,333 @@
+[submodule "integrations/mixpanel"]
+	path = integrations/mixpanel
+	url = git://github.com/segment-integrations/analytics.js-integration-mixpanel.git
+[submodule "integrations/adroll"]
+	path = integrations/adroll
+	url = git://github.com/segment-integrations/analytics.js-integration-adroll
+[submodule "integrations/adwords"]
+	path = integrations/adwords
+	url = git://github.com/segment-integrations/analytics.js-integration-adwords
+[submodule "integrations/alexa"]
+	path = integrations/alexa
+	url = git://github.com/segment-integrations/analytics.js-integration-alexa
+[submodule "integrations/amplitude"]
+	path = integrations/amplitude
+	url = git://github.com/segment-integrations/analytics.js-integration-amplitude
+[submodule "integrations/appcues"]
+	path = integrations/appcues
+	url = git://github.com/segment-integrations/analytics.js-integration-appcues
+[submodule "integrations/atatus"]
+	path = integrations/atatus
+	url = git://github.com/segment-integrations/analytics.js-integration-atatus
+[submodule "integrations/autosend"]
+	path = integrations/autosend
+	url = git://github.com/segment-integrations/analytics.js-integration-autosend
+[submodule "integrations/awesm"]
+	path = integrations/awesm
+	url = git://github.com/segment-integrations/analytics.js-integration-awesm
+[submodule "integrations/bing-ads"]
+	path = integrations/bing-ads
+	url = git://github.com/segment-integrations/analytics.js-integration-bing-ads
+[submodule "integrations/blueshift"]
+	path = integrations/blueshift
+	url = git://github.com/segment-integrations/analytics.js-integration-blueshift
+[submodule "integrations/bronto"]
+	path = integrations/bronto
+	url = git://github.com/segment-integrations/analytics.js-integration-bronto
+[submodule "integrations/bugherd"]
+	path = integrations/bugherd
+	url = git://github.com/segment-integrations/analytics.js-integration-bugherd
+[submodule "integrations/bugsnag"]
+	path = integrations/bugsnag
+	url = git://github.com/segment-integrations/analytics.js-integration-bugsnag
+[submodule "integrations/chameleon"]
+	path = integrations/chameleon
+	url = git://github.com/segment-integrations/analytics.js-integration-chameleon
+[submodule "integrations/chartbeat"]
+	path = integrations/chartbeat
+	url = git://github.com/segment-integrations/analytics.js-integration-chartbeat
+[submodule "integrations/clicky"]
+	path = integrations/clicky
+	url = git://github.com/segment-integrations/analytics.js-integration-clicky
+[submodule "integrations/comscore"]
+	path = integrations/comscore
+	url = git://github.com/segment-integrations/analytics.js-integration-comscore
+[submodule "integrations/crazy-egg"]
+	path = integrations/crazy-egg
+	url = git://github.com/segment-integrations/analytics.js-integration-crazy-egg
+[submodule "integrations/curebit"]
+	path = integrations/curebit
+	url = git://github.com/segment-integrations/analytics.js-integration-curebit
+[submodule "integrations/customerio"]
+	path = integrations/customerio
+	url = git://github.com/segment-integrations/analytics.js-integration-customerio
+[submodule "integrations/drip"]
+	path = integrations/drip
+	url = git://github.com/segment-integrations/analytics.js-integration-drip
+[submodule "integrations/elevio"]
+	path = integrations/elevio
+	url = git://github.com/segment-integrations/analytics.js-integration-elevio
+[submodule "integrations/errorception"]
+	path = integrations/errorception
+	url = git://github.com/segment-integrations/analytics.js-integration-errorception
+[submodule "integrations/evergage"]
+	path = integrations/evergage
+	url = git://github.com/segment-integrations/analytics.js-integration-evergage
+[submodule "integrations/extole"]
+	path = integrations/extole
+	url = git://github.com/segment-integrations/analytics.js-integration-extole
+[submodule "integrations/facebook-conversion-tracking"]
+	path = integrations/facebook-conversion-tracking
+	url = git://github.com/segment-integrations/analytics.js-integration-facebook-conversion-tracking
+[submodule "integrations/facebook-custom-audiences"]
+	path = integrations/facebook-custom-audiences
+	url = git://github.com/segment-integrations/analytics.js-integration-facebook-custom-audiences
+[submodule "integrations/foxmetrics"]
+	path = integrations/foxmetrics
+	url = git://github.com/segment-integrations/analytics.js-integration-foxmetrics
+[submodule "integrations/frontleaf"]
+	path = integrations/frontleaf
+	url = git://github.com/segment-integrations/analytics.js-integration-frontleaf
+[submodule "integrations/fullstory"]
+	path = integrations/fullstory
+	url = git://github.com/segment-integrations/analytics.js-integration-fullstory
+[submodule "integrations/gauges"]
+	path = integrations/gauges
+	url = git://github.com/segment-integrations/analytics.js-integration-gauges
+[submodule "integrations/get-satisfaction"]
+	path = integrations/get-satisfaction
+	url = git://github.com/segment-integrations/analytics.js-integration-get-satisfaction
+[submodule "integrations/google-analytics"]
+	path = integrations/google-analytics
+	url = git://github.com/segment-integrations/analytics.js-integration-google-analytics
+[submodule "integrations/google-tag-manager"]
+	path = integrations/google-tag-manager
+	url = git://github.com/segment-integrations/analytics.js-integration-google-tag-manager
+[submodule "integrations/gosquared"]
+	path = integrations/gosquared
+	url = git://github.com/segment-integrations/analytics.js-integration-gosquared
+[submodule "integrations/heap"]
+	path = integrations/heap
+	url = git://github.com/segment-integrations/analytics.js-integration-heap
+[submodule "integrations/hellobar"]
+	path = integrations/hellobar
+	url = git://github.com/segment-integrations/analytics.js-integration-hellobar
+[submodule "integrations/hittail"]
+	path = integrations/hittail
+	url = git://github.com/segment-integrations/analytics.js-integration-hittail
+[submodule "integrations/hubspot"]
+	path = integrations/hubspot
+	url = git://github.com/segment-integrations/analytics.js-integration-hubspot
+[submodule "integrations/improvely"]
+	path = integrations/improvely
+	url = git://github.com/segment-integrations/analytics.js-integration-improvely
+[submodule "integrations/insidevault"]
+	path = integrations/insidevault
+	url = git://github.com/segment-integrations/analytics.js-integration-insidevault
+[submodule "integrations/inspectlet"]
+	path = integrations/inspectlet
+	url = git://github.com/segment-integrations/analytics.js-integration-inspectlet
+[submodule "integrations/intercom"]
+	path = integrations/intercom
+	url = git://github.com/segment-integrations/analytics.js-integration-intercom
+[submodule "integrations/keen-io"]
+	path = integrations/keen-io
+	url = git://github.com/segment-integrations/analytics.js-integration-keen-io
+[submodule "integrations/kenshoo"]
+	path = integrations/kenshoo
+	url = git://github.com/segment-integrations/analytics.js-integration-kenshoo
+[submodule "integrations/kissmetrics"]
+	path = integrations/kissmetrics
+	url = git://github.com/segment-integrations/analytics.js-integration-kissmetrics
+[submodule "integrations/klaviyo"]
+	path = integrations/klaviyo
+	url = git://github.com/segment-integrations/analytics.js-integration-klaviyo
+[submodule "integrations/livechat"]
+	path = integrations/livechat
+	url = git://github.com/segment-integrations/analytics.js-integration-livechat
+[submodule "integrations/lucky-orange"]
+	path = integrations/lucky-orange
+	url = git://github.com/segment-integrations/analytics.js-integration-lucky-orange
+[submodule "integrations/lytics"]
+	path = integrations/lytics
+	url = git://github.com/segment-integrations/analytics.js-integration-lytics
+[submodule "integrations/mojn"]
+	path = integrations/mojn
+	url = git://github.com/segment-integrations/analytics.js-integration-mojn
+[submodule "integrations/mouseflow"]
+	path = integrations/mouseflow
+	url = git://github.com/segment-integrations/analytics.js-integration-mouseflow
+[submodule "integrations/mousestats"]
+	path = integrations/mousestats
+	url = git://github.com/segment-integrations/analytics.js-integration-mousestats
+[submodule "integrations/navilytics"]
+	path = integrations/navilytics
+	url = git://github.com/segment-integrations/analytics.js-integration-navilytics
+[submodule "integrations/nudgespot"]
+	path = integrations/nudgespot
+	url = git://github.com/segment-integrations/analytics.js-integration-nudgespot
+[submodule "integrations/olark"]
+	path = integrations/olark
+	url = git://github.com/segment-integrations/analytics.js-integration-olark
+[submodule "integrations/optimizely"]
+	path = integrations/optimizely
+	url = git://github.com/segment-integrations/analytics.js-integration-optimizely
+[submodule "integrations/outbound"]
+	path = integrations/outbound
+	url = git://github.com/segment-integrations/analytics.js-integration-outbound
+[submodule "integrations/perfect-audience"]
+	path = integrations/perfect-audience
+	url = git://github.com/segment-integrations/analytics.js-integration-perfect-audience
+[submodule "integrations/pingdom"]
+	path = integrations/pingdom
+	url = git://github.com/segment-integrations/analytics.js-integration-pingdom
+[submodule "integrations/piwik"]
+	path = integrations/piwik
+	url = git://github.com/segment-integrations/analytics.js-integration-piwik
+[submodule "integrations/preact"]
+	path = integrations/preact
+	url = git://github.com/segment-integrations/analytics.js-integration-preact
+[submodule "integrations/qualaroo"]
+	path = integrations/qualaroo
+	url = git://github.com/segment-integrations/analytics.js-integration-qualaroo
+[submodule "integrations/quantcast"]
+	path = integrations/quantcast
+	url = git://github.com/segment-integrations/analytics.js-integration-quantcast
+[submodule "integrations/rollbar"]
+	path = integrations/rollbar
+	url = git://github.com/segment-integrations/analytics.js-integration-rollbar
+[submodule "integrations/route"]
+	path = integrations/route
+	url = git://github.com/segment-integrations/analytics.js-integration-route
+[submodule "integrations/saasquatch"]
+	path = integrations/saasquatch
+	url = git://github.com/segment-integrations/analytics.js-integration-saasquatch
+[submodule "integrations/satismeter"]
+	path = integrations/satismeter
+	url = git://github.com/segment-integrations/analytics.js-integration-satismeter
+[submodule "integrations/segmentio"]
+	path = integrations/segmentio
+	url = git://github.com/segment-integrations/analytics.js-integration-segmentio
+[submodule "integrations/sentry"]
+	path = integrations/sentry
+	url = git://github.com/segment-integrations/analytics.js-integration-sentry
+[submodule "integrations/snapengage"]
+	path = integrations/snapengage
+	url = git://github.com/segment-integrations/analytics.js-integration-snapengage
+[submodule "integrations/spinnakr"]
+	path = integrations/spinnakr
+	url = git://github.com/segment-integrations/analytics.js-integration-spinnakr
+[submodule "integrations/supporthero"]
+	path = integrations/supporthero
+	url = git://github.com/segment-integrations/analytics.js-integration-supporthero
+[submodule "integrations/taplytics"]
+	path = integrations/taplytics
+	url = git://github.com/segment-integrations/analytics.js-integration-taplytics
+[submodule "integrations/tapstream"]
+	path = integrations/tapstream
+	url = git://github.com/segment-integrations/analytics.js-integration-tapstream
+[submodule "integrations/trakio"]
+	path = integrations/trakio
+	url = git://github.com/segment-integrations/analytics.js-integration-trakio
+[submodule "integrations/twitter-ads"]
+	path = integrations/twitter-ads
+	url = git://github.com/segment-integrations/analytics.js-integration-twitter-ads
+[submodule "integrations/userlike"]
+	path = integrations/userlike
+	url = git://github.com/segment-integrations/analytics.js-integration-userlike
+[submodule "integrations/uservoice"]
+	path = integrations/uservoice
+	url = git://github.com/segment-integrations/analytics.js-integration-uservoice
+[submodule "integrations/vero"]
+	path = integrations/vero
+	url = git://github.com/segment-integrations/analytics.js-integration-vero
+[submodule "integrations/visual-website-optimizer"]
+	path = integrations/visual-website-optimizer
+	url = git://github.com/segment-integrations/analytics.js-integration-visual-website-optimizer
+[submodule "integrations/webengage"]
+	path = integrations/webengage
+	url = git://github.com/segment-integrations/analytics.js-integration-webengage
+[submodule "integrations/woopra"]
+	path = integrations/woopra
+	url = git://github.com/segment-integrations/analytics.js-integration-woopra
+[submodule "integrations/wootric"]
+	path = integrations/wootric
+	url = git://github.com/segment-integrations/analytics.js-integration-wootric
+[submodule "integrations/yandex-metrica"]
+	path = integrations/yandex-metrica
+	url = git://github.com/segment-integrations/analytics.js-integration-yandex-metrica
+[submodule "dependencies/uuid/git"]
+	path = dependencies/uuid/git
+	url = git://github.com/gjohnson/uuid.git
+[submodule "dependencies/ad-params/git"]
+	path = dependencies/ad-params/git
+	url = git://github.com/segmentio/ad-params.git
+[submodule "dependencies/alias/git"]
+	path = dependencies/alias/git
+	url = git://github.com/segmentio/alias.git
+[submodule "dependencies/analytics.js-integration/git"]
+	path = dependencies/analytics.js-integration/git
+	url = git://github.com/segmentio/analytics.js-integration.git
+[submodule "dependencies/convert-dates/git"]
+	path = dependencies/convert-dates/git
+	url = git://github.com/segmentio/convert-dates.git
+[submodule "dependencies/extend/git"]
+	path = dependencies/extend/git
+	url = git://github.com/segmentio/extend.git
+[submodule "dependencies/facade/git"]
+	path = dependencies/facade/git
+	url = git://github.com/segmentio/facade.git
+[submodule "dependencies/global-queue/git"]
+	path = dependencies/global-queue/git
+	url = git://github.com/segmentio/global-queue.git
+[submodule "dependencies/json/git"]
+	path = dependencies/json/git
+	url = git://github.com/segmentio/json.git
+[submodule "dependencie/load-date/git"]
+        path = dependencie/load-date/git
+        url = git://github.com/segmentio/load-date.git
+[submodule "dependencies/load-script/git"]
+	path = dependencies/load-script/git
+	url = git://github.com/segmentio/load-script.git
+[submodule "dependencies/obj-case/git"]
+	path = dependencies/obj-case/git
+	url = git://github.com/segmentio/obj-case.git
+[submodule "dependencies/on-body/git"]
+	path = dependencies/on-body/git
+	url = git://github.com/segmentio/on-body.git
+[submodule "dependencies/on-error/git"]
+	path = dependencies/on-error/git
+	url = git://github.com/segmentio/on-error.git
+[submodule "dependencies/protocol/git"]
+	path = dependencies/protocol/git
+	url = git://github.com/segmentio/protocol.git
+[submodule "dependencies/to/to-iso-string/git"]
+	path = dependencies/to/to-iso-string/git
+	url = git://github.com/segmentio/to-iso-string.git
+[submodule "dependencies/to-uni/to-unix-timestamp/git"]
+	path = dependencies/to-uni/to-unix-timestamp/git
+	url = git://github.com/segmentio/to-unix-timestamp.git
+[submodule "dependencies/top-domain/git"]
+	path = dependencies/top-domain/git
+	url = git://github.com/segmentio/top-domain.git
+[submodule "dependencies/use-https/git"]
+	path = dependencies/use-https/git
+	url = git://github.com/segmentio/use-https.git
+[submodule "dependencies/utm-params/git"]
+	path = dependencies/utm-params/git
+	url = git://github.com/segmentio/utm-params.git
+[submodule "dependencies/when/git"]
+	path = dependencies/when/git
+	url = git://github.com/segmentio/when.git
+[submodule "dependencies/send-json/git"]
+	path = dependencies/send-json/git
+	url = git://github.com/yields/send-json.git
+[submodule "dependencies/slug/git"]
+	path = dependencies/slug/git
+	url = git://github.com/yields/slug.git
+[submodule "dependencies/some/git"]
+	path = dependencies/some/git
+	url = git://github.com/yields/some.git
+[submodule "dependencies/store/git"]
+	path = dependencies/store/git
+	url = git://github.com/yields/store.git
