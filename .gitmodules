@@ -340,3 +340,36 @@
 [submodule "dependencies/to-unix-timestamp/git"]
 	path = dependencies/to-unix-timestamp/git
 	url = git://github.com/segmentio/to-unix-timestamp.git
+[submodule "dependencies/after/git"]
+	path = dependencies/after/git
+	url = git://github.com/segmentio/after
+[submodule "dependencies/analytics-events/git"]
+	path = dependencies/analytics-events/git
+	url = git://github.com/segmentio/analytics-events
+[submodule "dependencies/load-iframe/git"]
+	path = dependencies/load-iframe/git
+	url = git://github.com/segmentio/after
+[submodule "dependencies/fmt/git"]
+	path = dependencies/fmt/git
+	url = git://github.com/yields/fmt
+[submodule "dependencies/script-onload/git"]
+	path = dependencies/script-onload/git
+	url = git://github.com/segmentio/script-onload
+[submodule "dependencies/analytics.js-core/git"]
+	path = dependencies/analytics.js-core/git
+	url = git://github.com/segmentio/analytics.js-core.git
+[submodule "dependencies/canonical/git"]
+	path = dependencies/canonical/git
+	url = git://github.com/segmentio/canonical.git
+[submodule "dependencies/is-email/git"]
+	path = dependencies/is-email/git
+	url = git://github.com/segmentio/is-email.git
+[submodule "dependencies/isodate-traverse/git"]
+	path = dependencies/isodate-traverse/git
+	url = git://github.com/segmentio/isodate-traverse.git
+[submodule "dependencies/new-date/git"]
+	path = dependencies/new-date/git
+	url = git://github.com/segmentio/new-date.git
+[submodule "dependencies/is-meta/git"]
+	path = dependencies/is-meta/git
+	url = git://github.com/segmentio/is-meta.git

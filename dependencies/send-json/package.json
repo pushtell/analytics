@@ -1,0 +1,5 @@
+{
+  "name": "send-json",
+  "version": "1.1.1",
+  "main": "git/index.js"
+}

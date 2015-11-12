@@ -10,18 +10,24 @@
   "peerDependencies": {
   },
   "dependencies": {
+    "aliasify": "1.8.0",
     "stluafed": "0.0.1",
     "bind": "git://github.com/component/bind.git#1.0.0",
     "clone": "git://github.com/component/clone.git#0.1.0",
     "cookie": "git://github.com/component/cookie.git#1.1.2",
     "domify": "git://github.com/component/domify.git#1.4.0",
+    "emitter": "git://github.com/component/emitter.git#1.2.0",
     "each": "git://github.com/component/each.git#0.0.1",
+    "event": "git://github.com/component/event.git#0.1.1",
+    "inherit": "git://github.com/component/inherit.git#0.0.2",
     "object": "git://github.com/component/object.git#0.0.3",
     "once": "git://github.com/component/once.git#0.0.1",
     "querystring": "git://github.com/component/querystring.git#1.3.1",
     "reduce": "git://github.com/component/reduce.git#1.0.1",
     "select": "git://github.com/component/select.git#0.0.1",
     "throttle": "git://github.com/component/throttle.git#0.0.2",
+    "type": "git://github.com/component/type.git#v1.2.0",
+    "url": "git://github.com/component/url.git#v0.2.1",
     "omit": "git://github.com/harrietgrace/omit.git#0.1.0",
     "bind": "git://github.com/ianstormtaylor/bind.git#0.0.2",
     "is": "git://github.com/ianstormtaylor/is.git#0.1.0",
@@ -37,6 +43,7 @@
     "ad-params": "file:./dependencies/ad-params",
     "alias": "file:./dependencies/alias",
     "analytics.js-integration": "file:./dependencies/analytics.js-integration",
+    "analytics.js-core": "file:./dependencies/analytics.js-core",
     "convert-dates": "file:./dependencies/convert-dates",
     "extend": "file:./dependencies/extend",
     "facade": "file:./dependencies/facade",
@@ -57,7 +64,18 @@
     "slug": "file:./dependencies/slug",
     "some": "file:./dependencies/some",
     "store": "file:./dependencies/store",
-    "when": "file:./dependencies/when"
+    "when": "file:./dependencies/when",
+    "after": "file:./dependencies/after",
+    "analytics-events": "file:./dependencies/analytics-events",
+    "load-iframe": "file:./dependencies/load-iframe",
+    "fmt": "file:./dependencies/fmt",
+    "to-no-case": "0.1.2",
+    "script-onload": "file:./dependencies/script-onload",
+    "canonical": "file:./dependencies/canonical",
+    "is-email": "file:./dependencies/is-email",
+    "is-meta": "file:./dependencies/is-meta",
+    "isodate-traverse": "file:./dependencies/isodate-traverse",
+    "new-date": "file:./dependencies/new-date"
   },
   "devDependencies": {
     "babel-core": "*",
@@ -70,6 +88,7 @@
     "isparta-loader": "*",
     "expose-loader": "*",
     "transform-loader": "*",
+    "json-loader": "*",
     "envify": "*",
     "karma": "*",
     "karma-chrome-launcher": "*",
@@ -83,6 +102,12 @@
     "karma-coveralls": "*",
     "karma-coverage": "*",
     "mocha-babel": "*"
+  },
+  "aliasify": {
+    "aliases": {
+      "type": "component-type",
+      "clone": "component-clone"
+    }
   },
   "scripts": {
     "test": "./node_modules/karma/bin/karma start test/karma.conf.js",

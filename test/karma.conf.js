@@ -98,20 +98,35 @@ module.exports = function (karma) {
     singleRun: true,
     webpack: {
       resolve: {
-        extensions: ['', '.js', '.jsx']
+        extensions: ['', '.js', '.jsx'],
+        alias: {
+          "type": "component-type",
+          "includes": "@ndhoule/includes",
+          "keys": "@ndhoule/keys",
+          "clone-component": "clone",
+          "each": "each-component",
+          "defaults": "stluafed",
+          "emitter": "component-emitter",
+          "foldl": "@ndhoule/foldl",
+          "cookie": "component-cookie",
+          "inherit": "inherit-component"
+        }
       },
       devtool: 'inline-source-map',
       module: {
         loaders: [
           {
             test: /\.js$/,
-            include: [path.join(__dirname, '../src'), __dirname],
             loader: 'babel',
             query: {
               cacheDirectory: true,
               presets: ["stage-1", "es2015"]
             }
           },
+          {
+            loader: 'json',
+            test: /\.json$/
+          }
           //{
           //  include: path.resolve('src'),
           //  loader: 'isparta',

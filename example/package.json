@@ -1,0 +1,14 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "webpack-dev-server": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "./node_modules/webpack-dev-server/bin/webpack-dev-server.js --config ./webpack.example.config.js"
+  },
+  "author": "",
+  "license": "MIT"
+}

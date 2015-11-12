@@ -1,0 +1,5 @@
+{
+  "name": "load-script",
+  "version": "0.1.2",
+  "main": "git/index.js"
+}

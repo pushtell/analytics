@@ -1,0 +1,5 @@
+{
+  "name": "to-unix-timestamp",
+  "version": "0.0.1",
+  "main": "git/index.js"
+}
